@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a first year Masters student at the University of Alberta, previosuly a machine learning engineer. My research interests are machine learning, representation learning and reinforcement learning as an approach to building general-purpose AI, with previous research experience in computer vision and deep learning.
+I am a 1st year MSc student of Computing Science at the University of Alberta, previosuly a machine learning engineer. My research interests are machine learning, representation learning and reinforcement learning as an approach to building general-purpose AI, with previous research experience in computer vision and deep learning.
 
 Education
 ======
@@ -27,4 +27,4 @@ News
 - May 2019: I am co-organzing the Deep Learning [IndabaXEgypt](https://sites.google.com/view/indabaxegypt) to help spread knowledge and build capacity in machine learning.
 - December 2018: I will be attending the [Women in Machine Learning workshop](https://wimlworkshop.org/2018/) co-located with NeurIPS 2018, in Montreal, Canada.
 - Nov. 2018: I am attending the Self-Organizing Conference on Machine Learning at Google Toronto, Canada, moderating the session on Autonomous vehicles. Checkout the full conference notes [here](https://gloriameltemiatay.github.io/SOCML2018/Report.pdf)
-======
+
