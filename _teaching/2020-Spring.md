@@ -2,7 +2,6 @@
 title: "CMPUT 296: Basics of Machine Learning"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2020-spring
 venue: "University of Alberta, Department of Computer Science"
 date: 2020-01-06
 location: "Edmonton, Canada"

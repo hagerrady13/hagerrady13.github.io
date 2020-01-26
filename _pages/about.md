@@ -17,8 +17,9 @@ The American University in Cairo, 2012 - 2017
 
 Work Experience
 ======
-* Computer Vision Scientist, Affectiva
-* Deep Learning Research Engineer, Valeo
+* Computer Vision Scientist, Affectiva, Egypt
+* Deep Learning Research Engineer, Valeo, Egypt
+* Research Assistant, The American University in Cairo, Egypt
 
 News
 ======

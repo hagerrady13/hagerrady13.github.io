@@ -2,7 +2,6 @@
 title: "Coursera's Deep Learning Specialization"
 collection: teaching
 type: "Instructor"
-permalink: /teaching/2018-spring
 venue: "Alama Initiative, Egypt"
 date: 2018-03-01
 location: "Cairo, Egypt"
