@@ -8,4 +8,3 @@ Abstract— This project applies reinforcement learning algorithms for robotics 
 the overall behaviour and how it potentially affects the learning process. Our approach outperforms the original implementation in the alignment sub-goal and makes the reward function more interpretable.  
 Supervised by: Rupam A. Mahmood, RLAI Lab, University of Alberta.  
 [Report](https://drive.google.com/file/d/1QLVAHcYskx1Y2uVcXv51jGBDc08CDtV2/view?usp=sharing) - [Video](https://www.youtube.com/watch?v=ui3c8Tn-Fqc&feature=youtu.be)  
-![A comparison](/images/ac_vs_sarsa.png)
