@@ -1,6 +1,6 @@
 ---
 title: "Policy Gradient vs. Action-value based methods"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/ac_vs_sarsa.png'>"
+excerpt: "An empirical analysis on policy-gradient methods vs. action-value based methods for control<br/>"
 collection: portfolio
 ---
 
