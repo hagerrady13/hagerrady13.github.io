@@ -9,5 +9,7 @@ learn faster than action-value based methods under function approximation. More 
 with one-step actor-critic in the Mountain Car environment, where the empirical results were consistent with the original hypothesis.  
 
 Project is part of the RLII course, taught by Richard Sutton in Winter 2020.   
-[Report](https://drive.google.com/file/d/1Fb1SBwGZyZXVZk3X79Vh_N-MBvJs0lF6/view?usp=sharing) - [Code](https://github.com/hagerrady13/RLII-project)
+[Report](https://drive.google.com/file/d/1Fb1SBwGZyZXVZk3X79Vh_N-MBvJs0lF6/view?usp=sharing) - [Code](https://github.com/hagerrady13/RLII-project)  
+  
+  
 ![A comparison](/images/ac_vs_sarsa.png)

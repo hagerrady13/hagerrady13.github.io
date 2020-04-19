@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year MSc student of Computing Science at the University of Alberta, supervised by Matthew Taylor at the [RLAI](http://rlai.ualberta.ca/) lab. My research interests are representation learning, reinforcement learning and machine learning as an approach to building general-purpose AI agents, with previous research experience in computer vision and deep learning.
+I am a first-year MSc student of Computing Science at the University of Alberta, supervised by Matthew Taylor at the [RLAI](http://rlai.ualberta.ca/) lab. My research interests are representation learning, reinforcement learning and machine learning with a focus on building general-purpose AI agents. My previous research experience in computer vision and deep learning.
 
 Education
 ======
@@ -21,8 +21,8 @@ Research Area: Video classification, computer vision
 
 Work Experience
 ======
-* Computer Vision Scientist, Affectiva   <em>May 2019 - September 2019</em>
-* Deep Learning Research Engineer, Valeo   <em>July 2017 - April 2019</em>
+* Computer Vision Scientist, Affectiva,  <em>May 2019 - September 2019</em>
+* Deep Learning Research Engineer, Valeo,   <em>July 2017 - April 2019</em>
 * Research Assistant, The American University in Cairo   <em>September 2016 - May 2017</em>
 
 News
