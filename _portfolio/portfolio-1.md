@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Policy Gradient vs. Action-value based methods"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/ac_vs_sarsa.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project analyzes and compares action-value based methods vs. policy gradient methods, in a control problem. The project suggests that policy gradient methods should
+learn faster than action-value based methods under function approximation. More specifically, one-step Sarsa is compared
+with one-step actor-critic in the Mountain Car environment, where the empirical results were consistent with the original hypothesis.   
+[Report](https://drive.google.com/file/d/1Fb1SBwGZyZXVZk3X79Vh_N-MBvJs0lF6/view?usp=sharing) - [Code](https://github.com/hagerrady13/RLII-project)
