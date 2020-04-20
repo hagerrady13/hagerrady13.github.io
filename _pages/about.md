@@ -16,7 +16,7 @@ Advisor: [Matthew Taylor](https://eecs.wsu.edu/~taylorm/)
 Research Area: Adverserial Reinforcement learning, representation learning  
 * BSc in Computer Engineering  
 The American University in Cairo, Egypt, <em>2012 - 2017</em>  
-Advisor: [Mohamed N. Mostafa](https://www.aucegypt.edu/fac/mohamedmoustafa)
+Advisor: [Mohamed N. Mostafa](https://www.aucegypt.edu/fac/mohamedmoustafa)  
 Research Area: Video classification, computer vision  
 
 Work Experience
