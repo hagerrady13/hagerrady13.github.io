@@ -6,18 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year MSc student of Computing Science at the University of Alberta, supervised by Matthew Taylor at the [RLAI](http://rlai.ualberta.ca/) lab. My research interests are representation learning, reinforcement learning and machine learning with a focus on building general-purpose AI agents. My previous research experience in computer vision and deep learning.
+I am a first-year MSc student of Computing Science at University of Alberta, supervised by Matthew Taylor at the [RLAI](http://rlai.ualberta.ca/) lab, affiliated with [AMII](https://www.amii.ca/). My research interests are representation learning, reinforcement learning and machine learning with a focus on building general-purpose AI agents. My previous research experience in computer vision and deep learning.
 
 Education
 ======
 * MSc (Research) in Computing Science  
 University of Alberta, Canada, <em>September 2019 - present</em>  
 Advisor: [Matthew Taylor](https://eecs.wsu.edu/~taylorm/)  
-Research Area: Adverserial Reinforcement learning, representation learning  
+Research Areas: Reinforcement learning, representation learning  
 * BSc in Computer Engineering  
 The American University in Cairo, Egypt, <em>2012 - 2017</em>  
 Advisor: [Mohamed N. Mostafa](https://www.aucegypt.edu/fac/mohamedmoustafa)  
-Research Area: Video classification, computer vision  
+Research Areas: Video classification, computer vision  
 
 Work Experience
 ======
