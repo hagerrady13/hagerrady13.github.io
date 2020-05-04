@@ -1,5 +1,6 @@
 ---
 title: "Policy Gradient vs. Action-value based methods"
+link: "https://hagerrady13.github.io/portfolio/portfolio-1/"
 excerpt: "An empirical analysis on policy-gradient methods vs. action-value based methods for control<br/>"
 collection: portfolio
 ---

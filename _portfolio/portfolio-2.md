@@ -1,5 +1,6 @@
 ---
 title: "Reinforcemenet learning with Robotics"
+link: "https://hagerrady13.github.io/portfolio/portfolio-2/"
 excerpt: "A real-time learning of an off-policy RL control algorithm on a real robot(Create2).<br/>"
 collection: portfolio
 ---
