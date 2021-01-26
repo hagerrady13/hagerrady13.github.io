@@ -10,4 +10,4 @@ the overall behaviour and how it potentially affects the learning process. Our a
 Supervised by: Rupam A. Mahmood, RLAI Lab, University of Alberta.  
 [Report](https://drive.google.com/file/d/1QLVAHcYskx1Y2uVcXv51jGBDc08CDtV2/view?usp=sharing) - [Video](https://www.youtube.com/watch?v=ui3c8Tn-Fqc&feature=youtu.be)  
 
-A follow-up project presented at [RL4RealLife virtual conference](https://sites.google.com/view/RL4RealLife), you can find 
+A follow-up project presented at [RL4RealLife virtual conference](https://sites.google.com/view/RL4RealLife), you can find the presentation [here](https://www.youtube.com/watch?v=tlcAqwpxJUQ&feature=youtu.be)

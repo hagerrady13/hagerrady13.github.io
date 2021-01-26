@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year MSc student of Computing Science at University of Alberta, supervised by Matthew Taylor at the [RLAI](http://rlai.ualberta.ca/) lab, affiliated with [AMII](https://www.amii.ca/). My research interests are reinforcement learning and machine learning with a current focus on offline and off-policy learning. My previous research experience in computer vision and deep learning.
+I am a second-year MSc student of Computing Science at University of Alberta, supervised by Matthew Taylor at the [RLAI](http://rlai.ualberta.ca/) lab, affiliated with [AMII](https://www.amii.ca/). My research interests are reinforcement learning and machine learning with a current focus on offline and off-policy reinforcement learning. My previous research experience in computer vision and deep learning.
 
 Education
 ======
