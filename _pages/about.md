@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year MSc student of Computing Science at University of Alberta, supervised by Matthew Taylor at the [RLAI](http://rlai.ualberta.ca/) lab, affiliated with [AMII](https://www.amii.ca/). My research interests are reinforcement learning and machine learning with a current focus on offline and off-policy reinforcement learning. My previous research experience in computer vision and deep learning.
+I am a second-year MSc student of Computing Science at University of Alberta, supervised by Matthew Taylor of [IRL](https://irll.ca/) lab , also at the [RLAI](http://rlai.ualberta.ca/) lab and affiliated with [AMII](https://www.amii.ca/). My research interests are reinforcement learning and machine learning with a current focus on offline and off-policy reinforcement learning. My previous research experience in computer vision and deep learning.
 
 Education
 ======
@@ -21,6 +21,7 @@ Research Areas: Video classification, computer vision
 
 Work Experience
 ======
+* Research and teaching Assistant, IRL Lab, University of Alberta, September 2019 - present
 * Computer Vision Scientist, Affectiva,  <em>May 2019 - September 2019</em>
 * Deep Learning Research Engineer, Valeo,   <em>July 2017 - April 2019</em>
 * Research Assistant, The American University in Cairo   <em>September 2016 - May 2017</em>
