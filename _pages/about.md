@@ -11,7 +11,7 @@ I am an Applied Research Scientist at [Mila](https://mila.quebec/). I have MSc i
 Education
 ======
 * MSc (Research) in Computing Science  
-University of Alberta, Canada, <em>September 2019 - January 2022</em>  
+University of Alberta, Canada, <em>Sept 2019 - Jan 2022</em>  
 **GPA**: 4.0/4.0   
 **Supervisors**: [Matthew Taylor](https://eecs.wsu.edu/~taylorm/), and [Josiah P. Hanna](https://pages.cs.wisc.edu/~jphanna/)  
 **Thesis**: A Framework of Safe Evaluation for Offline Learning  
@@ -23,13 +23,13 @@ Research Areas: video classification, computer vision
 
 Work Experience
 ======
-* Applied Research Scientist, Mila, Canada, <em>August 2022 - present </em>
-* Scientist-in-Residence, NextAI, Canada, <em>March 2022 - September 2022</em>
-* Applied ML Research Intern, Mila, Canada, <em>February 2022 - June 2022</em>
-* Research and teaching Assistant, University of Alberta, Canada, <em>September 2019 - January 2022</em>
-* Computer Vision Scientist, Affectiva, Egypt, <em>May 2019 - September 2019</em>
-* ML Algorithms Research Engineer, Valeo, Egypt, <em>July 2017 - April 2019</em>
-* Research Assistant, The American University in Cairo, Egypt, <em>September 2016 - May 2017</em>
+* Applied Research Scientist, Mila, Canada, <em>Aug 2022 - present </em>
+* Scientist-in-Residence, NextAI, Canada, <em>Mar 2022 - Sept 2022</em>
+* Applied ML Research Intern, Mila, Canada, <em>Feb 2022 - June 2022</em>
+* Research and teaching Assistant, University of Alberta, Canada, <em>Sept 2019 - Jan 2022</em>
+* Computer Vision Scientist, Affectiva, Egypt, <em>May 2019 - Sept 2019</em>
+* ML Algorithms Research Engineer, Valeo, Egypt, <em>July 2017 - Apr 2019</em>
+* Research Assistant, The American University in Cairo, Egypt, <em>Sept 2016 - May 2017</em>
 
 [comment]: <> (News)
 
