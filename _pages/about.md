@@ -6,26 +6,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Applied Research Scientist at Mila. I have MSc in Computing Science at University of Alberta, as part of [IRL](https://irll.ca/) Lab , also at [RLAI](http://rlai.ualberta.ca/) lab and [AMII](https://www.amii.ca/). My research interests are reinforcement learning and machine learning with a current focus on offline and off-policy reinforcement learning. My previous research experience lied in computer vision and deep learning.
+I am an Applied Research Scientist at Mila. I have MSc in Computing Science at University of Alberta, focused on Reinforcement learning, where I was part of [IRL](https://irll.ca/) Lab , also at [RLAI](http://rlai.ualberta.ca/) lab and [AMII](https://www.amii.ca/). My research interests are reinforcement learning, computer vision and machine learning.
 
 Education
 ======
 * MSc (Research) in Computing Science  
 University of Alberta, Canada, <em>September 2019 - January 2022</em>  
-Supervisors: [Matthew Taylor](https://eecs.wsu.edu/~taylorm/), [Josiah P. Hanna](https://pages.cs.wisc.edu/~jphanna/)
-Thesis: High-confidence evaluation for Offline reinforcement learning
-Research Areas: Offline/Batch RL, off-policy RL, model-based RL   
+**GPA**: 4.0/4.0   
+**Supervisors**: [Matthew Taylor](https://eecs.wsu.edu/~taylorm/), and [Josiah P. Hanna](https://pages.cs.wisc.edu/~jphanna/)  
+**Thesis**: A Framework of Safe Evaluation for Offline Learning  
+**Research Interests**: Offline/Batch RL, safe RL, off-policy RL, human-AI interaction 
 * BSc in Computer Engineering  
 The American University in Cairo, Egypt, <em>2012 - 2017</em>  
-Advisor: [Mohamed N. Mostafa](https://www.aucegypt.edu/fac/mohamedmoustafa)  
-Research Areas: Video classification, computer vision  
+Supervisor: [Mohamed N. Mostafa](https://www.aucegypt.edu/fac/mohamedmoustafa)  
+Research Areas: video classification, computer vision  
 
 Work Experience
 ======
-* Research and teaching Assistant, IRL Lab, University of Alberta, September 2019 - present
-* Computer Vision Scientist, Affectiva,  <em>May 2019 - September 2019</em>
-* ML Algorithms Research Engineer, Valeo,   <em>July 2017 - April 2019</em>
-* Research Assistant, The American University in Cairo   <em>September 2016 - May 2017</em>
+* Applied Research Scientist, Mila, Canada, <em>August 2022 - present </em>
+* Scientist-in-Residence, NextAI, Canada, <em>March 2022 - September 2022</em>
+* Applied ML Research Intern, Mila, Canada, <em>February 2022 - June 2022</em>
+* Research and teaching Assistant, IRL Lab, University of Alberta, Canada, <em>September 2019 - January 2022</em>
+* Computer Vision Scientist, Affectiva, Egypt, <em>May 2019 - September 2019</em>
+* ML Algorithms Research Engineer, Valeo, Egypt, <em>July 2017 - April 2019</em>
+* Research Assistant, The American University in Cairo, Egypt, <em>September 2016 - May 2017</em>
 
 [comment]: <> (News)
 

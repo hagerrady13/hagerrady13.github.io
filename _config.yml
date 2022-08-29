@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hager Radi"
 title_separator          : "-"
 name                     : &name "Hager Radi"
-description              : &description "MSc Student & RL Researcher"
+description              : &description "Applied Research Scientist"
 url                      : https://hagerrady13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hagerrady13.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Hager Radi"
-  avatar           : "profile.jpg"
-  bio              : "Research Assistant at University of Alberta"
-  location         : "Edmonton, Canada"
+  avatar           : "HagerRadi_personal_photo.jpg"
+  bio              : "Applied Research Scientist"
+  location         : "Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_VEOvX8AAAAJ&hl=en"
