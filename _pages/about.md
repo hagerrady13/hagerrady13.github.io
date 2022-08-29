@@ -6,13 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year MSc student of Computing Science at University of Alberta, supervised by Matthew Taylor of [IRL](https://irll.ca/) Lab , also at [RLAI](http://rlai.ualberta.ca/) lab and [AMII](https://www.amii.ca/). My research interests are reinforcement learning and machine learning with a current focus on offline and off-policy reinforcement learning. My previous research experience lied in computer vision and deep learning.
+I am an Applied Research Scientist at Mila. I have MSc in Computing Science at University of Alberta, as part of [IRL](https://irll.ca/) Lab , also at [RLAI](http://rlai.ualberta.ca/) lab and [AMII](https://www.amii.ca/). My research interests are reinforcement learning and machine learning with a current focus on offline and off-policy reinforcement learning. My previous research experience lied in computer vision and deep learning.
 
 Education
 ======
 * MSc (Research) in Computing Science  
-University of Alberta, Canada, <em>September 2019 - present</em>  
-Advisor: [Matthew Taylor](https://eecs.wsu.edu/~taylorm/)  
+University of Alberta, Canada, <em>September 2019 - January 2022</em>  
+Supervisors: [Matthew Taylor](https://eecs.wsu.edu/~taylorm/), [Josiah P. Hanna](https://pages.cs.wisc.edu/~jphanna/)
+Thesis: High-confidence evaluation for Offline reinforcement learning
 Research Areas: Offline/Batch RL, off-policy RL, model-based RL   
 * BSc in Computer Engineering  
 The American University in Cairo, Egypt, <em>2012 - 2017</em>  
