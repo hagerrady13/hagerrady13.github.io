@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Applied Research Scientist at [Mila](https://mila.quebec/). I have MSc in Computing Science from University of Alberta, focused on Reinforcement learning, where I was part of [IRL](https://irll.ca/) Lab , also at [RLAI](http://rlai.ualberta.ca/) lab and [AMII](https://www.amii.ca/). My research interests are reinforcement learning, computer vision and machine learning.
+I am an Applied Research Scientist at [Mila](https://mila.quebec/). I have MSc in Computing Science from University of Alberta, focused on Reinforcement learning, where I was part of [IRL](https://irll.ca/) Lab , also at [RLAI](http://rlai.ualberta.ca/) lab and [Amii](https://www.amii.ca/). My research interests are reinforcement learning, computer vision and machine learning.
 
 Education
 ======
@@ -24,11 +24,11 @@ Research Areas: video classification, computer vision
 Work Experience
 ======
 * Applied Research Scientist, Mila, Canada, <em>Aug 2022 - present </em>
-* Scientist-in-Residence, NextAI, Canada, <em>Mar 2022 - Sept 2022</em>
+* AI Scientist-in-Residence, NextAI, Canada, <em>Mar 2022 - Sept 2022</em>
 * Applied ML Research Intern, Mila, Canada, <em>Feb 2022 - June 2022</em>
 * Research and teaching Assistant, University of Alberta, Canada, <em>Sept 2019 - Jan 2022</em>
-* Computer Vision Scientist, Affectiva, Egypt, <em>May 2019 - Sept 2019</em>
-* ML Algorithms Research Engineer, Valeo, Egypt, <em>July 2017 - Apr 2019</em>
+* Computer Vision Research Engineer, Affectiva, Egypt, <em>May 2019 - Sept 2019</em>
+* ML Algorithms Engineer, Valeo, Egypt, <em>July 2017 - Apr 2019</em>
 * Research Assistant, The American University in Cairo, Egypt, <em>Sept 2016 - May 2017</em>
 
 [comment]: <> (News)
