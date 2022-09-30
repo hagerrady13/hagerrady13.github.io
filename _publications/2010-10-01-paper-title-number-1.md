@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: 'This paper studies the performance of different classifiers on the CIFAR-10 dataset, and builds an ensemble of classifiers to reach a better performance.'
 date: September 2016
 venue: '2016 International Conference on Computational Science and Computational Intelligence'
-paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7881518'
+paperurl: 'https://arxiv.org/pdf/1611.04905.pdf'
 
 ---
 
