@@ -1,12 +1,12 @@
 ---
-title: "CIFAR-10: KNN-based Ensemble of Classifiers"
+title: "VolMap: A Real-time Model for Semantic Segmentation of a LiDAR surrounding view"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-2
-excerpt: 'This paper studies the performance of different classifiers on the CIFAR-10 dataset, and builds an ensemble of classifiers to reach a better performance.'
-date: September 2016
-venue: '2016 International Conference on Computational Science and Computational Intelligence'
-paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7881518'
+excerpt: 'This paper introduces a real-time approach for 3D LiDAR semantic segmentation '
+date: May 2019
+venue: 'ICML 2019 - Workshop on AI for Autonomous Driving'
+paperurl: 'https://arxiv.org/pdf/1906.11873.pdf'
 
 ---
 
-Recommended citation: Y Abouelnaga, OS Ali, H Rady, M Moustafa - 2016 International Conference on Computational …, 2016
+Recommended citation: H Radi, W Ali - arXiv preprint arXiv:1906.11873, 2019
+
