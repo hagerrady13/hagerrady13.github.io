@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Applied Research Scientist at [Mila](https://mila.quebec/). I have MSc in Computing Science from University of Alberta, focused on Reinforcement learning, where I was part of [IRL](https://irll.ca/) Lab , also at [RLAI](http://rlai.ualberta.ca/) lab and [Amii](https://www.amii.ca/). My research interests are reinforcement learning, computer vision and machine learning.
+I am an Applied Research Scientist at [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/). I have MSc in Computing Science from University of Alberta, focused on Reinforcement learning, where I was part of [IRL](https://irll.ca/) Lab , also at [RLAI](http://rlai.ualberta.ca/) lab and [Amii](https://www.amii.ca/). My research interests are reinforcement learning, computer vision and machine learning.
 
 Education
 ======
