@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am an Applied Research Scientist at [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/). I have MSc in Computing Science from University of Alberta, focused on Reinforcement learning, where I was part of [IRL](https://irll.ca/) Lab , also at [RLAI](http://rlai.ualberta.ca/) lab and [Amii](https://www.amii.ca/). My research interests are reinforcement learning, computer vision and machine learning.
 
-Education
+# Education
 ======
 * MSc (Research) in Computing Science  
 University of Alberta, Canada, <em>Sept 2019 - Jan 2022</em>  
@@ -16,12 +16,13 @@ University of Alberta, Canada, <em>Sept 2019 - Jan 2022</em>
 **Supervisors**: [Matthew Taylor](https://drmatttaylor.net/) and [Josiah P. Hanna](https://pages.cs.wisc.edu/~jphanna/)  
 **Thesis**: A Framework of Safe Evaluation for Offline Learning  
 **Research Interests**: Offline/Batch RL, safe RL, off-policy RL, human-AI interaction 
+<br/>
 * BSc in Computer Engineering  
 The American University in Cairo, Egypt, <em>2012 - 2017</em>  
 Supervisor: [Mohamed N. Mostafa](https://www.aucegypt.edu/fac/mohamedmoustafa)  
 Research Areas: video classification, computer vision  
 
-Work Experience
+# Work Experience
 ======
 * **Applied Research Scientist** <br/>
 Mila - Quebec AI Institute, Canada, <em>Aug'22 - present </em>
