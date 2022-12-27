@@ -23,19 +23,19 @@ Research Areas: video classification, computer vision
 
 Work Experience
 ======
-* Applied Research Scientist <br/>
+* **Applied Research Scientist** <br/>
 Mila - Quebec AI Institute, Canada, <em>Aug'22 - present </em>
-* AI Scientist-in-Residence <br/>
+* **AI Scientist-in-Residence** <br/>
 NextAI - Montreal, Canada, <em>Mar'22 - Sept'22</em>
-* Applied ML Research Intern <br/>
+* **Applied ML Research Intern** <br/>
 Mila - Quebec AI Institute, Canada, <em>Feb'22 - June'22</em>
-* Research and Teaching Assistant <br/>
+* **Research and Teaching Assistant** <br/>
 University of Alberta, Canada, <em>Sept'19 - Jan'22</em>
-* Computer Vision Research Engineer <br/>
+* **Computer Vision Research Engineer** <br/>
 Affectiva, Egypt, <em>May'19 - Sept'19</em>
-* ML Algorithms Engineer <br/>
+* **ML Algorithms Engineer** <br/>
 Valeo, Egypt, <em>July'17 - Apr'19</em>
-* Research Assistant <br/>
+* **Research Assistant** <br/>
 The American University in Cairo, Egypt, <em>Sept'16 - May'17</em>
 
 [comment]: <> (News)
