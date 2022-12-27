@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Teaching
-* **Fall 2021 & Spring 2020: CMPUT 296 - Basics of Machine Learning** <br/>
+* **Fall 2021 & Winter 2020: CMPUT 296 - Basics of Machine Learning** <br/>
 University of Alberta, Department of Computer Science, Canada <br/>
 The course tackles the basics of machine learning: material can be found on the [website](https://marthawhite.github.io/mlbasics/) <br/>
 

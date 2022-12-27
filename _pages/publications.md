@@ -16,7 +16,7 @@ Hager Radi. *MSc Thesis, University of Alberta, Canada, 2022*. <br/>
 * **Safe Evaluation For Offline Learning: Are We Ready To Deploy?** <br/>
 **Hager Radi**, Josiah P Hanna, Peter Stone, Matthew E Taylor <br/>
 <em> NeurIPS 2021 Workshop on Deployable Decision Making in Embodied Systems (Spotlight) <em/> <br/>
-[Arxiv](https://arxiv.org/abs/2212.08302) [Talk](https://youtu.be/KN7j9i--wKQ)
+[Arxiv](https://arxiv.org/abs/2212.08302) - [Talk](https://youtu.be/KN7j9i--wKQ)
 * **VolMap: A Real-time Model for Semantic Segmentation of a LiDAR surrounding view** <br/>
 **Hager Radi**, Waleed Ali <br/>
 <em> ICML 2019 Workshop on AI for Autonomous Driving <em/> <br/>
