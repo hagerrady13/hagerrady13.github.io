@@ -1,16 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
+# redirect_from:
+#  - /publications
 ---
+## Publications
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* **A Framework for Safe Evaluation of Offline Learning** <br/>
+Hager Radi. *MSc Thesis, University of Alberta, Canada, 2022*.
