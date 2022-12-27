@@ -13,7 +13,7 @@ Education
 * MSc (Research) in Computing Science  
 University of Alberta, Canada, <em>Sept 2019 - Jan 2022</em>  
 **GPA**: 4.0/4.0   
-**Supervisors**: [Matthew Taylor](https://drmatttaylor.net/), and [Josiah P. Hanna](https://pages.cs.wisc.edu/~jphanna/)  
+**Supervisors**: [Matthew Taylor](https://drmatttaylor.net/) and [Josiah P. Hanna](https://pages.cs.wisc.edu/~jphanna/)  
 **Thesis**: A Framework of Safe Evaluation for Offline Learning  
 **Research Interests**: Offline/Batch RL, safe RL, off-policy RL, human-AI interaction 
 * BSc in Computer Engineering  
@@ -23,13 +23,20 @@ Research Areas: video classification, computer vision
 
 Work Experience
 ======
-* Applied Research Scientist, Mila, Canada, <em>Aug'22 - present </em>
-* AI Scientist-in-Residence, NextAI, Canada, <em>Mar'22 - Sept'22</em>
-* Applied ML Research Intern, Mila, Canada, <em>Feb'22 - June'22</em>
-* Research and Teaching Assistant, University of Alberta, Canada, <em>Sept'19 - Jan'22</em>
-* Computer Vision Research Engineer, Affectiva, Egypt, <em>May'19 - Sept'19</em>
-* ML Algorithms Engineer, Valeo, Egypt, <em>July'17 - Apr'19</em>
-* Research Assistant, The American University in Cairo, Egypt, <em>Sept'16 - May'17</em>
+* Applied Research Scientist <br/>
+Mila - Quebec AI Institute, Canada, <em>Aug'22 - present </em>
+* AI Scientist-in-Residence <br/>
+NextAI - Montreal, Canada, <em>Mar'22 - Sept'22</em>
+* Applied ML Research Intern <br/>
+Mila - Quebec AI Institute, Canada, <em>Feb'22 - June'22</em>
+* Research and Teaching Assistant <br/>
+University of Alberta, Canada, <em>Sept'19 - Jan'22</em>
+* Computer Vision Research Engineer <br/>
+Affectiva, Egypt, <em>May'19 - Sept'19</em>
+* ML Algorithms Engineer <br/>
+Valeo, Egypt, <em>July'17 - Apr'19</em>
+* Research Assistant <br/>
+The American University in Cairo, Egypt, <em>Sept'16 - May'17</em>
 
 [comment]: <> (News)
 
