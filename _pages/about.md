@@ -26,7 +26,7 @@ Work Experience
 * Applied Research Scientist, Mila, Canada, <em>Aug'22 - present </em>
 * AI Scientist-in-Residence, NextAI, Canada, <em>Mar'22 - Sept'22</em>
 * Applied ML Research Intern, Mila, Canada, <em>Feb'22 - June'22</em>
-* Research and teaching Assistant, University of Alberta, Canada, <em>Sept'19 - Jan'22</em>
+* Research and Teaching Assistant, University of Alberta, Canada, <em>Sept'19 - Jan'22</em>
 * Computer Vision Research Engineer, Affectiva, Egypt, <em>May'19 - Sept'19</em>
 * ML Algorithms Engineer, Valeo, Egypt, <em>July'17 - Apr'19</em>
 * Research Assistant, The American University in Cairo, Egypt, <em>Sept'16 - May'17</em>
