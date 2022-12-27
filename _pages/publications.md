@@ -25,6 +25,8 @@ Hager Radi. *MSc Thesis, University of Alberta, Canada, 2022*. <br/>
 Yehya Abouelnaga, Ola S. Ali, **Hager Rady**, Mohamed Moustafa <br/>
 <em> International Conference on Computational Science and Computational Intelligence, 2016 <em/> <br/>
 [Arxiv](https://arxiv.org/abs/1611.04905)
+
+
 ## Patents
 * **Multi-Sensor Fusion for Radar Cocoon object detection** <br/>
 **Hager Radi**, Mohamed Zahran, Waleed Ali <br/>
