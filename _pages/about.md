@@ -13,7 +13,7 @@ Education
 * MSc (Research) in Computing Science  
 University of Alberta, Canada, <em>Sept 2019 - Jan 2022</em>  
 **GPA**: 4.0/4.0   
-**Supervisors**: [Matthew Taylor](https://eecs.wsu.edu/~taylorm/), and [Josiah P. Hanna](https://pages.cs.wisc.edu/~jphanna/)  
+**Supervisors**: [Matthew Taylor](https://drmatttaylor.net/), and [Josiah P. Hanna](https://pages.cs.wisc.edu/~jphanna/)  
 **Thesis**: A Framework of Safe Evaluation for Offline Learning  
 **Research Interests**: Offline/Batch RL, safe RL, off-policy RL, human-AI interaction 
 * BSc in Computer Engineering  
