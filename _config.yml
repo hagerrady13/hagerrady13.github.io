@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hager Radi"
+title                    : "Hager Radi Abdelwahed"
 title_separator          : "-"
-name                     : &name "Hager Radi"
+name                     : &name "Hager Radi Abdelwahed"
 description              : &description "Applied ML Research Scientist"
 url                      : https://hagerrady13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hager Radi"
+  name             : "Hager Radi Abdelwahed"
   avatar           : "pp_2.png"
   bio              : "Applied ML Research Scientist"
   location         : "Canada"
